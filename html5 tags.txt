@@ -10,9 +10,9 @@
 
     <header style="text-align:center;">
         <nav>
-            <a href="https://www.html.com">HTML</a> |
-            <a href="https://www.python.org">PYTHON</a> |
-            <a href="https://www.java.com">JAVA</a> |
+            <a href="https://www.html.com">HTML</a><br> |
+            <a href="https://www.python.org">PYTHON</a> <br>|
+            <a href="https://www.java.com">JAVA</a><br> |
             <a href="https://www.cplusplus.com">C++</a>
         </nav>
 
@@ -47,3 +47,4 @@
 
 </body>
 </html>
+
