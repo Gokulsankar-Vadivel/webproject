@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Use Semantic HTML Tags</title>
+</head>
+
+<body>
+
+    <h1 style="text-align:center;">Four Programs Used for Programming</h1>
+
+    <header style="text-align:center;">
+        <nav>
+            <a href="https://www.html.com">HTML</a> |
+            <a href="https://www.python.org">PYTHON</a> |
+            <a href="https://www.java.com">JAVA</a> |
+            <a href="https://www.cplusplus.com">C++</a>
+        </nav>
+
+        <p style="font-size:30px;">
+            Four programs are trending now for IT programming.
+        </p>
+    </header>
+
+    <section>
+        <p>
+            HTML, Java and C++ represent distinct facets of the computing world.
+            HTML is a markup language for structuring web content. Java and C++
+            are powerful programming languages used for a wide array of applications.
+            HTML elements like headings, paragraphs, images and links are organized
+            within a hierarchical structure.
+        </p>
+    </section>
+
+    <footer>
+        <p>
+            HTML, Java and C++ represent distinct yet interconnected facets of software development.
+            Java and C++ are powerful programming languages. You can learn programming using the links below:
+        </p>
+
+        <nav style="text-align:center;">
+            <a href="https://www.html.com">HTML Web Page</a> |
+            <a href="https://www.python.org">Python Online Compiler</a> |
+            <a href="https://www.java.com">Java Script</a> |
+            <a href="https://www.cplusplus.com">C++ Programming</a>
+        </nav>
+    </footer>
+
+</body>
+</html>
