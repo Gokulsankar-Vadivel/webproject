@@ -22,12 +22,12 @@
     </header>
 
     <section>
-        <p>
+        <p><i>
             HTML, Java and C++ represent distinct facets of the computing world.
             HTML is a markup language for structuring web content. Java and C++
             are powerful programming languages used for a wide array of applications.
             HTML elements like headings, paragraphs, images and links are organized
-            within a hierarchical structure.
+            within a hierarchical structure.</i>
         </p>
     </section>
 
@@ -47,4 +47,5 @@
 
 </body>
 </html>
+
 
